@@ -5,6 +5,12 @@ date:   2024-03-01 4:30:00
 categories: classics
 ---
 
+You have surely heard it said that “*a pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty*” ... to justify the need for optimism and maintaining a cheerful, positive attitude in the face of adversity ... but the fact of the matter is that the valuable things in the world HARD to do ... not just like scoring four touchdowns in the football championship, like Al Bundy and way too many others reliving their glory days from decades ago ... SERIOUSLY HARD in a long-term, multi-decade sense ... and the only way to get through it is to be a hardened **realist**, and that means slogging through, thorougly *embracing the suck* after that's stopped being a slogan to get through a rough day on the beach. 
+
+It's necessary to RAPIDLY BECOME IMMERSED ... to the point where one feels like drowning is certain ... only AFTER one has learned enough to understand why the pessimists were too optimistic and the optimists were completely off the charts, hopelessly delusional ... is it possible to be a HARDENDED REALIST.
+
+## Getting There QUICKLY
+
 
 Here is a proposed 200-module, year-long nanofabrication course for autodidacts, designed to complement Sam Zeloof's AtomicSemi fab venture and the ZeroToASIC course:
 
