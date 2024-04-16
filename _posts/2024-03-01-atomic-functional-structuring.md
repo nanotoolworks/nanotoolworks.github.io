@@ -14,6 +14,13 @@ It's necessary to RAPIDLY BECOME IMMERSED ... to the point where one feels like 
 
 Here is a proposed 200-module, year-long nanofabrication course for autodidacts, designed to complement Sam Zeloof's AtomicSemi fab venture and the ZeroToASIC course:
 
+Pre-Fundamentals (50 modules) BEFORE YOU START:
+1-10: Autodidactic Learning, Self-Teaching IMMERSION ... AND Why This Ain't For 99.9% of The People Out There
+11-20: Examples of Autodidactic Nanofabrication Projects and How They Have Financed Their Labs
+21-30: Open-Source Tools, Resources for Nanofabrication, Sharing Resources and Financial Workarounds
+31-40: Building A Home Lab for Building A Home Lab for Building A Home Lab for Nanofabrication
+41-50: Safety Protocols, Best Practices, Other Stakeholders, Karens/Supporters and The LAW for Home Labs
+
 Fundamentals (50 modules):
 1-10: Introduction to Semiconductors and Devices
 11-20: Solid State Physics and Quantum Mechanics
