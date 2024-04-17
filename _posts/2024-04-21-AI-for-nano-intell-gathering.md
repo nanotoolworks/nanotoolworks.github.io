@@ -8,8 +8,12 @@ categories: classics
 Here is a proposed 200-module, year-long graduate or post-graduate level intensive curriculum that covers the knowledge engineering skillsets necessary for a Chief Knowledge Officer or AI strategist to develop effective AI plans and strategies for nanofabrication, CMOS hardware, system-on-a-chip sensors, computational materials science, and related fields:
 
 Foundations of Knowledge Engineering and Management (30 modules):
-1-5: Introduction to Knowledge Management and Engineering
-6-10: Ontologies, Taxonomies, and Semantic Networks
+
+1-5: Introduction to [Knowledge Management (KM)](https://en.wikipedia.org/wiki/Knowledge_management) and [Knowledge Engineering(KE)](https://en.wikipedia.org/wiki/Knowledge_engineering) and [Knowledge Based Engineering(KBE)](https://en.wikipedia.org/wiki/Knowledge-based_engineering), [Knowledge Models OR Knowledge representation and reasoning (KRR, KR&R, KR²)](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning), KRR formalisms include semantic nets, frames, rules, logic programs and ontologies. Examples of [automated reasoning engines](https://en.wikipedia.org/wiki/Automated_reasoning) include [inference engines](https://en.wikipedia.org/wiki/Inference_engine), [theorem provers](https://en.wikipedia.org/wiki/Automated_theorem_proving), [model generators](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) and [classifiers](https://en.wikipedia.org/wiki/Statistical_classification).
+
+6-10: Ontologies, Taxonomies, Semantic Networks, and [Semiotics](https://en.wikipedia.org/wiki/Semiotics), which is the systematic study of [sign processes or *semiosis*](https://en.wikipedia.org/wiki/Semiosis) and the communication of [meaning](https://en.wikipedia.org/wiki/Meaning_(semiotics)).
+[Bibliometrics](https://en.wikipedia.org/wiki/Bibliometrics) Categorization [Censoring (statistics)](https://en.wikipedia.org/wiki/Censoring_(statistics)) Classification Computer data storage Cultural studies Data modeling Informatics [Informetrics](https://en.wikipedia.org/wiki/Informetrics) Information technology Intellectual freedom Intellectual property Library and information science Memory [Netnography](https://en.wikipedia.org/wiki/Netnography) Preservation Privacy Quantum information science, [Scientometrics](https://en.wikipedia.org/wiki/Scientometrics), [Virtual ethnography](https://en.wikipedia.org/wiki/Online_ethnography), [Webometrics](https://en.wikipedia.org/wiki/Webometrics)
+
 11-15: Knowledge Acquisition, Representation, and Reasoning
 16-20: Knowledge Graphs and Linked Data
 21-25: Knowledge Sharing, Transfer, and Collaboration
