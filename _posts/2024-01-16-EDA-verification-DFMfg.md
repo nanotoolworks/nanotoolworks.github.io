@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EDA Verification and DFM for NanoFabrication"
-date:   2024-06-01 4:30:00
+date:   2024-01-16 4:30:00
 categories: classics
 ---
 
