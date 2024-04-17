@@ -37,55 +37,124 @@ There are several alternatives to [Open-RMF (Open Robotics Middleware Framework)
 
 ### Fundamentals of Robotic Systems (30 modules):
 
-1-10: Introduction to Robotics and Automation
+#### 1-10: Introduction to Robotics and Automation
 
-11-20: Robot Kinematics, Dynamics, and Control
+##### 1) Review of Fundamentals of Mathematics and Physics for Robotics
 
-21-30: Sensor and Actuator Technologies for Industrial Robotics
+* Linear Algebra and Matrices
+* Calculus and Differential Equations
+* Probability and Statistics
+* Classical Mechanics and Dynamics
+
+##### 2) Programming and Software Engineering
+
+* Introduction to Programming (Python)
+* Data Structures and Algorithms
+* Object-Oriented Programming and Design Patterns
+* Software Engineering Principles and Practices
+
+##### 3) Electronics and Circuits (20 modules):
+
+* Electrical Circuits and Components
+* Digital Logic and Microcontrollers
+* Analog Circuits and Signal Processing
+* Power Electronics and Motor Drives
+
+##### 4) Sensors and Instrumentation (20 modules):
+
+* Sensor Types and Characteristics
+* Sensor Interfacing and Signal Conditioning
+* Inertial Measurement Units (IMUs) and Odometry
+* Vision Sensors and Image Processing
+
+##### 5) Robot Mechanics and Control (40 modules):
+
+* Robot Kinematics and Coordinate Transformations
+* Robot Dynamics and Equations of Motion
+* Motion Planning and Trajectory Generation
+* Feedback Control and PID Tuning
+* Force Control and Impedance Control
+* Adaptive and Robust Control
+* Nonlinear Control and Sliding Mode Control
+* Optimal Control and Model Predictive Control
+
+##### 6) Robotic Manipulation and Grasping (20 modules):
+
+* Robotic Hands and Grippers
+* Grasping and Manipulation Planning
+* Compliant Manipulation and Force Control
+* Dexterous Manipulation and In-Hand Manipulation
+
+##### 7) Mobile Robotics and Navigation (20 modules):
+
+* Wheeled and Legged Robot Locomotion
+* Localization and Mapping (SLAM)
+* Path Planning and Obstacle Avoidance
+* Autonomous Navigation and Decision Making
+
+##### 8) Perception and Machine Learning (20 modules):
+
+* Computer Vision and Image Processing
+* Point Cloud Processing and 3D Vision
+* Machine Learning and Pattern Recognition
+* Deep Learning and Neural Networks
+
+##### 9) Human-Robot Interaction and Collaboration (10 modules):
+
+* Human-Robot Interface Design
+* Collaborative Robots and Safety
+
+##### 10) Robotic Systems Integration and Deployment (10 modules):
+* Robot Operating System (ROS) and Middleware
+* System Integration, Testing, and Deployment
+
+#### 11-20: Robot Kinematics, Dynamics, and Control
+
+#### 21-30: Sensor and Actuator Technologies for Industrial Robotics
 
 ### Robotic Middleware and Distributed Systems (40 modules):
 
-31-40: Distributed Computing and Networking for Robotics
+#### 31-40: Distributed Computing and Networking for Robotics
 
-41-50: Publish-Subscribe Architectures and Message Passing
+#### 41-50: Publish-Subscribe Architectures and Message Passing
 
-51-60: Real-Time Operating Systems (RTOS) and Scheduling
+#### 51-60: Real-Time Operating Systems (RTOS) and Scheduling
 
-61-70: Software Design Patterns and Best Practices for Robotic Middleware
+#### 61-70: Software Design Patterns and Best Practices for Robotic Middleware
 
 ### Open-RMF Core Components and Tools (50 modules):
 
-71-80: RMF Core and Communication Protocols
+#### 71-80: RMF Core and Communication Protocols
 
-81-90: RMF Scheduler and Task Allocation
+#### 81-90: RMF Scheduler and Task Allocation
 
-91-100: RMF Fleet Manager and Resource Optimization
+#### 91-100: RMF Fleet Manager and Resource Optimization
 
-101-110: RMF Traffic Editor and Environment Modeling
+#### 101-110: RMF Traffic Editor and Environment Modeling
 
-111-120: Integrating Robots and Devices with Open-RMF
+#### 111-120: Integrating Robots and Devices with Open-RMF
 
 ### Industrial and Commercial Robotics Applications (30 modules):
 
-121-130: Material Handling and Logistics Robotics
+#### 121-130: Material Handling and Logistics Robotics
 
-131-140: Manufacturing and Assembly Robotics
+#### 131-140: Manufacturing and Assembly Robotics
 
-141-150: Service Robotics and Human-Robot Interaction
+#### 141-150: Service Robotics and Human-Robot Interaction
 
 ### Fleet Management and Coordination Strategies (20 modules):
 
-151-160: Multi-Robot Task Planning and Scheduling
+#### 151-160: Multi-Robot Task Planning and Scheduling
 
-161-170: Collaborative and Cooperative Robot Behaviors
+#### 161-170: Collaborative and Cooperative Robot Behaviors
 
 ### Advanced Topics and Research Frontiers (30 modules):
 
-171-180: Machine Learning for Adaptive Robot Control and Decision Making
+#### 171-180: Machine Learning for Adaptive Robot Control and Decision Making
 
-181-190: Robot Perception and Situational Awareness in Dynamic Environments
+#### 181-190: Robot Perception and Situational Awareness in Dynamic Environments
 
-191-200: Fault Detection, Diagnosis, and Recovery in Multi-Robot Systems
+#### 191-200: Fault Detection, Diagnosis, and Recovery in Multi-Robot Systems
 
 The course begins with a foundation in robotic systems, covering topics like robot kinematics and control, sensor and actuator technologies, and software architectures for industrial robotics. This provides the necessary background for understanding the design and implementation of robotic middleware like Open-RMF.
 
