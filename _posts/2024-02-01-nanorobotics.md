@@ -31,9 +31,9 @@ Developing different syllabi that effective are trying to suck as much juice out
 Each of these middleware frameworks has its own strengths and weaknesses, and the choice of middleware depends on factors such as the specific requirements of the application, the robot platforms being used, the development environment, the vitality and strength of the open source development community behind the framework and the expertise of the autodidactic developer leaning the system ... the best approach, therefore, is to learn them all, each with a 2-day immersive assignment or perhaps, more appropriately a week-long assignment to review all together [since each will involve similar background fundamentals] and compare/contrasts the differences.  It especially worth noting that these different alternatives might be best viewed as complements to one another since the can be used in ***conjunction with one another*** or other open source frameworks to create a more comprehensive solution for managing robot fleets ... **not just in industrial, commercial, agricultural and space settings, but also at nanoscale,** ie ***there's plenty of room at the bottom!.***
 
 
-## Open-RMF (Open Robotics Middleware Framework)
+## [Open-RMF (Open Robotics Middleware Framework)](https://www.open-rmf.org/)
 
-There are several alternatives to Open-RMF (Open Robotics Middleware Framework) for managing and coordinating robot fleets in industrial and commercial settings such as ROS (Robot Operating System) and ROS2, MRPT (Mobile Robot Programming Toolkit), MOOS (Mission Oriented Operating Suite), OpenRTM (Open Robot Technology Middleware), Orocos (Open Robot Control Software), and YARP (Yet Another Robot Platform). Each of these middleware frameworks has its own strengths and weaknesses, and the choice of middleware depends on factors such as the specific requirements of the application, the robot platforms being used, the development environment, and the expertise of the development team.
+There are several alternatives to [Open-RMF (Open Robotics Middleware Framework)](https://www.open-rmf.org/) for managing and coordinating robot fleets in industrial and commercial settings such as [ROS (Robot Operating System)](https://ros.org/) and [ROS2](https://github.com/ros2/ros2) meta operating system for robots, [MRPT (Mobile Robot Programming Toolkit)](https://github.com/MRPT/mrpt), [MOOS (Mission Oriented Operating Suite)](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php), [OpenRTM (Open Robot Technology Middleware)](https://www.openrtm.org/openrtm/en/doc/aboutopenrtm/rtmiddleware), [Orocos (Open Robot Control Software)](https://orocos.org/), and [Robotology](https://github.com/robotology)'s [YARP (Yet Another Robot Platform)](https://www.yarp.it/latest/). Each of these middleware frameworks has its own strengths and weaknesses, and the choice of middleware depends on factors such as the specific requirements of the application, the robot platforms being used, the development environment, and the expertise of the development team.
 
 ### Fundamentals of Robotic Systems (30 modules):
 
@@ -103,7 +103,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of the Open-RMF middleware and its role in enabling efficient and robust robot fleet management and coordination. They will be well-equipped to design, implement, and deploy Open-RMF-based solutions for various industries and use cases, and to contribute to the cutting-edge research and development efforts that are shaping the future of industrial and commercial robotics.
 
-## ROS (Robot Operating System) and ROS2
+## [ROS (Robot Operating System)](https://ros.org/) and [ROS2](https://github.com/ros2/ros2) meta operating system for robots
 
 ROS2 is an open-source robotics middleware that provides a framework for developing and deploying robotics applications.
 It offers a set of tools, libraries, and conventions for building and managing robot systems.
@@ -179,7 +179,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of ROS and ROS2 and their role in enabling advanced robotic systems and fleet management. They will be well-equipped to design, implement, and deploy ROS-based solutions for a wide range of industries and use cases, and to contribute to the cutting-edge research and development efforts that are driving the future of robotics.
 
-## MRPT (Mobile Robot Programming Toolkit)
+## [MRPT (Mobile Robot Programming Toolkit)](https://github.com/MRPT/mrpt)
 
 MRPT is an open-source C++ library for mobile robotics applications.
 It provides a set of tools and algorithms for robot perception, localization, mapping, and navigation.
@@ -255,7 +255,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of the MRPT framework and its role in enabling advanced mobile robot systems and fleet management. They will be well-equipped to design, implement, and deploy MRPT-based solutions for various industries and use cases, and to contribute to the cutting-edge research and development efforts that are shaping the future of mobile robotics.
 
-## MOOS (Mission Oriented Operating Suite)
+## [MOOS (Mission Oriented Operating Suite)](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php)
 
 MOOS is an open-source robotics middleware designed for autonomous marine vehicles and other robotic platforms.
 It provides a publish-subscribe architecture for communication between modules and supports distributed computing.
@@ -329,7 +329,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of the MOOS middleware and its role in enabling autonomous robotic systems, particularly in the marine domain. They will be well-equipped to design, implement, and deploy MOOS-based robots for a variety of missions and applications, and to contribute to the cutting-edge research and development efforts that are driving the future of robotics.
 
-## OpenRTM (Open Robot Technology Middleware)
+## [OpenRTM (Open Robot Technology Middleware)](https://www.openrtm.org/openrtm/en/doc/aboutopenrtm/rtmiddleware)
 
 OpenRTM is an open-source middleware framework for robot systems developed by the National Institute of Advanced Industrial Science and Technology (AIST) in Japan. It provides a component-based architecture for building and deploying robot applications.OpenRTM supports real-time communication, distributed computing, and integrates with various robot platforms and sensors.
 
@@ -403,7 +403,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of the OpenRTM middleware and its role in enabling advanced robotic systems and fleet management. They will be well-equipped to design, implement, and deploy OpenRTM-based solutions for various industries and use cases, and to contribute to the cutting-edge research and development efforts that are driving the future of robotics.
 
-## Orocos (Open Robot Control Software)
+## [Orocos (Open Robot Control Software)](https://orocos.org/)
 
 Orocos is an open-source software framework for real-time robot control and automation.It consists of a real-time toolkit, a component framework, and a set of libraries for motion control, kinematics, and dynamics.Orocos provides a modular and flexible architecture for building complex robot applications and supports real-time performance.
 
@@ -477,7 +477,7 @@ Throughout the course, students will work on projects that involve developing an
 
 By the end of this comprehensive program, students will have a deep understanding of the Orocos framework and its role in enabling advanced robotic systems and fleet management. They will be well-equipped to design, implement, and deploy Orocos-based solutions for various industries and use cases, and to contribute to the cutting-edge research and development efforts that are driving the future of robotics.
 
-## YARP (Yet Another Robot Platform)
+## [Robotology](https://github.com/robotology)'s [YARP (Yet Another Robot Platform)](https://www.yarp.it/latest/)
 
 YARP is an open-source robotics middleware developed by the Italian Institute of Technology (IIT).It provides a set of libraries and tools for building distributed robot systems and supports communication between modules.YARP is designed to be flexible, lightweight, and easy to use, making it suitable for a wide range of robot platforms and applications.
 
