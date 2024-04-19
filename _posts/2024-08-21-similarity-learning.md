@@ -10,7 +10,7 @@ Working at nanoscale will involve "seeing" things that we are unfamiliar with, b
 Here is a proposed 200-module, year-long post-graduate level intensive curriculum for advanced mathematical statistics tools using Similarity Learning algorithms of artificial intelligence:
 
 Foundations of Probability and Statistics (30 modules):
-1-5: Measure Theory and Probability Spaces
+1-5: [Measure Theory](https://en.wikipedia.org/wiki/Measure_(mathematics)), [Probability Spaces](https://en.wikipedia.org/wiki/Probability_space) and [Axioms of probability](https://en.wikipedia.org/wiki/Probability_axioms), [Probability measure](https://en.wikipedia.org/wiki/Probability_measure) can be used in mathematical biology, eg, in comparative [sequence analysis](https://en.wikipedia.org/wiki/Sequence_analysis), a probability measure may be defined for the likelihood that a variant may be permissible for an amino acid in a sequence ... [Bregman Divergence](https://en.wikipedia.org/wiki/Bregman_divergence), [Mahalanobis Distance](https://en.wikipedia.org/wiki/Mahalanobis_distance), [Bhattacharyya distance](https://en.wikipedia.org/wiki/Bhattacharyya_distance) and the [Hellinger distance](https://en.wikipedia.org/wiki/Hellinger_distance), [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance), [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index), [Kullback-Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence), [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance), [Minkowski distance](https://en.wikipedia.org/wiki/Minkowski_distance), [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient), [Spearman's rank correlation coefficient](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [Tanimoto coefficient](https://en.wikipedia.org/wiki/Jaccard_index), [Wasserstein distance](https://en.wikipedia.org/wiki/Wasserstein_metric
 6-10: Random Variables and Expectation
 11-15: Convergence of Random Variables
 16-20: Multivariate Probability Distributions
@@ -24,7 +24,7 @@ Linear Algebra and Matrix Analysis (20 modules):
 46-50: Positive Definite Matrices and Kernel Methods
 
 Metric Spaces and Topology (20 modules):
-51-55: Metric Spaces and Distance Functions
+51-55: Metric Spaces and Distance Functions ... [Leverage](https://en.wikipedia.org/wiki/Leverage_(statistics)), [Projection](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
 56-60: Convergence and Continuity in Metric Spaces
 61-65: Topological Spaces and Homeomorphisms
 66-70: Compactness and Completeness
@@ -37,8 +37,8 @@ Similarity Learning Algorithms (50 modules):
 91-95: Support Vector Machines and Kernel SVM
 96-100: Similarity Learning with Deep Neural Networks
 101-105: Siamese Networks and Triplet Loss
-106-110: Metric Learning and Distance Metric Learning
-111-115: Graph-Based Similarity Learning
+106-110: Metric Learning and Distance Metric Learning... [Nearest Neighbor Search](https://en.wikipedia.org/wiki/Nearest_neighbor_search), [Locality-Sensitive Hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+111-115: Graph-Based Similarity Learning ... 
 116-120: Collaborative Filtering and Recommender Systems
 
 Statistical Learning Theory (30 modules):
