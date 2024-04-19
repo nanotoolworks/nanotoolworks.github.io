@@ -5,7 +5,9 @@ date:   2024-08-21 4:30:00
 categories: classics
 ---
 
-Working at nanoscale will involve "seeing" things that we are unfamiliar with, but might have similarities to things that we actually are familiar with. Accordingly, we will look at implementing Similarity Learning into our artifical intelligence approach. Similarity Learning is a subfield of machine learning that simply focuses on using AI to machine learn similarity functions from data. These functions are used to measure the similarity between objects in a dataset, which can be useful for tasks such as clustering, classification, and recommendation systems; in other words, AI might not give us exact answers, but it can help sort out the relevant attributes *hidden in plain sight* so that we can sharpen our focus at investigating new phenomena.
+Working at nanoscale will involve "seeing" things that we are unfamiliar with, but might have similarities to things that we actually are familiar with. Our ability to reason about these similarities will be crucial, not just in making sense of the data we collect and in developing new materials and technologies, but also in intuiting testable hypotheses and in designing experiments to test them.
+
+Accordingly, we will look at implementing Similarity Learning into our artifical intelligence approach. Similarity Learning is a subfield of machine learning that simply focuses on using AI to machine learn similarity functions from data. These functions are used to measure the similarity between objects in a dataset, which can be useful for tasks such as clustering, classification, and recommendation systems; in other words, AI might not give us exact answers, but it can help sort out the relevant attributes *hidden in plain sight* so that we can sharpen our focus at investigating new phenomena.
 
 Here is a proposed 200-module, year-long post-graduate level intensive curriculum for advanced mathematical statistics tools using Similarity Learning algorithms of artificial intelligence:
 
