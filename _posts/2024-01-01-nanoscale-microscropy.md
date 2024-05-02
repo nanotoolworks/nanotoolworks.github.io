@@ -7,37 +7,60 @@ categories: classics
 
 Here is a proposed 200-module, year-long course on advanced optical imaging and nanoscale photolithography for autodidacts, focusing on super-resolution techniques and AI-enhanced computer vision:
 
-Fundamentals of Optics and Imaging (40 modules):
-1-10: Geometric Optics and Ray Tracing
-11-20: Wave Optics and Diffraction
-21-30: Fourier Optics and Spatial Frequency Analysis
-31-40: Optical Aberrations and Correction Techniques
 
-Microscopy and Telescopy (30 modules):
-41-50: Brightfield and Darkfield Microscopy
-51-60: Phase Contrast and Differential Interference Contrast (DIC) Microscopy
-61-65: Fluorescence and Confocal Microscopy
-66-70: Astronomical Telescopes and Adaptive Optics
+### Fundamentals of Optics and Imaging (40 modules):
 
-Super-Resolution Imaging Techniques (50 modules):
-71-80: Structured Illumination Microscopy (SIM)
-81-90: Stimulated Emission Depletion (STED) Microscopy
-91-100: Photoactivated Localization Microscopy (PALM) and Stochastic Optical Reconstruction Microscopy (STORM)
-101-110: Near-Field Scanning Optical Microscopy (NSOM)
-111-120: Expansion Microscopy and Labeling Strategies
+#### 1-10: Geometric Optics and Ray Tracing
 
-Computational Imaging and AI-Enhanced Vision (40 modules):
-121-130: Image Processing and Reconstruction Algorithms
-131-140: Deep Learning for Image Segmentation and Analysis
-141-150: Convolutional Neural Networks (CNNs) for Object Detection and Classification
-151-160: Generative Adversarial Networks (GANs) for Image Enhancement and Synthesis
+#### 11-20: Wave Optics and Diffraction
 
-Nanoscale Photolithography (40 modules):
-161-170: Extreme Ultraviolet (EUV) Lithography
-171-180: Plasmonic Lithography and Metamaterials
-181-185: Two-Photon Polymerization (2PP) Lithography
-186-190: Nanoimprint Lithography and Soft Lithography
-191-200: Tip-Based Nanofabrication and Scanning Probe Lithography
+#### 21-30: Fourier Optics and Spatial Frequency Analysis
+
+#### 31-40: Optical Aberrations and Correction Techniques
+
+### Microscopy and Telescopy (30 modules):
+
+#### 41-50: Brightfield and Darkfield Microscopy
+
+#### 51-60: Phase Contrast and Differential Interference Contrast (DIC) Microscopy
+
+#### 61-65: Fluorescence and Confocal Microscopy
+
+#### 66-70: Astronomical Telescopes and Adaptive Optics
+
+### Super-Resolution Imaging Techniques (50 modules):
+
+#### 71-80: Structured Illumination Microscopy (SIM)
+
+#### 81-90: Stimulated Emission Depletion (STED) Microscopy
+
+#### 91-100: Photoactivated Localization Microscopy (PALM) and Stochastic Optical Reconstruction Microscopy (STORM)
+
+#### 101-110: Near-Field Scanning Optical Microscopy (NSOM)
+
+#### 111-120: Expansion Microscopy and Labeling Strategies
+
+### Computational Imaging and AI-Enhanced Vision (40 modules):
+
+#### 121-130: Image Processing and Reconstruction Algorithms
+
+#### 131-140: Deep Learning for Image Segmentation and Analysis
+
+#### 141-150: Convolutional Neural Networks (CNNs) for Object Detection and Classification
+
+#### 151-160: Generative Adversarial Networks (GANs) for Image Enhancement and Synthesis
+
+### Nanoscale Photolithography (40 modules):
+
+#### 161-170: Extreme Ultraviolet (EUV) Lithography
+
+#### 171-180: Plasmonic Lithography and Metamaterials
+
+#### 181-185: Two-Photon Polymerization (2PP) Lithography
+
+#### 186-190: Nanoimprint Lithography and Soft Lithography
+
+#### 191-200: Tip-Based Nanofabrication and Scanning Probe Lithography
 
 The course begins with a strong foundation in optics and imaging, covering both geometric and wave optics, as well as advanced topics like Fourier optics and aberration correction. This lays the groundwork for understanding the principles behind various microscopy and telescopy techniques.
 
