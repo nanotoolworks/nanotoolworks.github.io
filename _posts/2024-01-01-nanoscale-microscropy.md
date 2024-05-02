@@ -73,3 +73,5 @@ The nanoscale photolithography modules cover advanced techniques for patterning 
 Throughout the course, students will work on projects that apply super-resolution imaging and AI-enhanced vision techniques to various optical instruments, such as microscopes, telescopes, cameras, and photolithography systems. They will develop skills in optical system design, data acquisition, and image processing, with a focus on pushing the boundaries of resolution and functionality.
 
 By the end of this comprehensive program, autodidacts will have a deep understanding of advanced optical imaging and nanoscale photolithography techniques, as well as the ability to implement cutting-edge AI algorithms for image analysis and enhancement. They will be well-equipped to contribute to research and development in fields like nanotechnology, materials science, biology, and astronomy, where pushing the limits of optical imaging is crucial for new discoveries and innovations.
+
+
