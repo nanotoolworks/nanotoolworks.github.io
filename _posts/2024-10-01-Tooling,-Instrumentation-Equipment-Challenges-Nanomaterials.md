@@ -92,7 +92,7 @@ The following table presents a prioritized list of 100 significant tooling barri
 
 | Rank | Barrier Description | Nanomaterial Focus | Explanation | Supporting Snippet IDs |
 | :---- | :---- | :---- | :---- | :---- |
-| 1 | (Scalable production of high-quality graphene)[https://x.com/i/grok/share/cD8EoizdMuQy3QbnMVhH2j6KG] | Graphene | Achieving large-area, single-layer graphene with minimal defects and high uniformity at a cost-effective price remains a major hurdle for widespread commercialization. | 20 |
+| 1 | [Scalable production of high-quality graphene](https://x.com/i/grok/share/cD8EoizdMuQy3QbnMVhH2j6KG) | Graphene | Achieving large-area, single-layer graphene with minimal defects and high uniformity at a cost-effective price remains a major hurdle for widespread commercialization. | 20 |
 | 2 | Chirality control in CNT synthesis | Nanotubes | Synthesizing carbon nanotubes with specific chiralities, which dictate their electronic properties, in a scalable and cost-effective manner is still a significant challenge. | 16 |
 | 3 | Contamination-free transfer of graphene films | Graphene | Transferring graphene from the growth substrate to the application substrate without introducing defects or contaminants is a critical bottleneck. | 21 |
 | 4 | Accurate size and polydispersity measurement for nanoparticles | Nanoparticles | Current techniques often lack the resolution and accuracy needed, especially for non-spherical or polydisperse samples. | 10 |
