@@ -101,8 +101,3 @@ Here is a proposed 200-module, year-long post-graduate level intensive curriculu
 
 #### 196-200: Advanced Topics in X-ray and Ultrafast Science
 
-Throughout the course, students will engage in a combination of online lectures, seminars, hands-on laboratory work, and computational projects that cover the fundamental principles and cutting-edge applications of X-ray and ultrafast science. The curriculum emphasizes the development of deep theoretical understanding, experimental skills, and data analysis capabilities, as well as the ability to work effectively in collaborative research environments.
-
-By the end of this intensive program, students will have a comprehensive understanding of the state-of-the-art techniques and instrumentation used at world-leading X-ray and ultrafast science facilities, such as LCLS, SSRL, and MeV-UED. They will be well-prepared to conduct independent research and contribute to the development of new methods and applications in this rapidly evolving field.
-
-The course also places a strong emphasis on the interdisciplinary nature of X-ray and ultrafast science, with modules covering applications in materials science, condensed matter physics, chemistry, and biology. Through a combination of rigorous coursework, hands-on training, and independent research projects, this curriculum provides a solid foundation for future leaders and innovators in X-ray and ultrafast science.

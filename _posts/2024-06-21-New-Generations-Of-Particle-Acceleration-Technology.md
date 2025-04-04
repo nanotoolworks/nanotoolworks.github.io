@@ -56,9 +56,3 @@ Research Projects and Hands-on Training (20 modules):
 186-190: RF Cavity Design and Testing Laboratory
 191-195: Beam Diagnostics and Instrumentation Laboratory
 196-200: Capstone Project in Advanced Accelerator Technology
-
-Throughout the course, students will engage in a combination of online lectures, seminars, computational projects, and hands-on laboratory work that cover both the theoretical foundations and practical aspects of particle accelerator physics and technology. The curriculum emphasizes the development of a deep understanding of the principles underlying particle acceleration, as well as the skills needed to design, build, and operate cutting-edge accelerator facilities.
-
-By the end of this intensive program, students will have a comprehensive understanding of the current state-of-the-art in particle accelerator technology, as well as the ability to contribute to the development of new generations of accelerators for a wide range of applications, from fundamental physics research to medical and industrial uses. They will be well-prepared to conduct independent research and take on leadership roles in academia, national laboratories, or industry.
-
-The course also places a strong emphasis on the interdisciplinary nature of modern accelerator physics, with modules covering topics ranging from advanced electromagnetic theory and quantum mechanics to materials science and engineering. Through a combination of rigorous coursework, hands-on training, and independent research projects, this curriculum provides a solid foundation for future leaders and innovators in the field of particle accelerator technology.

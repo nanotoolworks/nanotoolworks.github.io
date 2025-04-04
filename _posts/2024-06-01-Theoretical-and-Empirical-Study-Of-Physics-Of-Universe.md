@@ -56,9 +56,3 @@ Advanced Topics and Research Projects (20 modules):
 186-190: Beyond the Standard Model and New Physics Searches
 191-195: Independent Research Project in Observational Cosmology
 196-200: Capstone Project in Space Observatory Design and Instrumentation
-
-Throughout the course, students will engage in a combination of online lectures, seminars, computational projects, and hands-on laboratory work that cover both the theoretical foundations and practical applications of cosmology, astrophysics, and space-based observational techniques. The curriculum emphasizes the development of a deep understanding of the Universe's evolution, as well as the skills needed to design, build, and operate cutting-edge space observatories.
-
-By the end of this intensive program, students will have a comprehensive understanding of the current state of knowledge in cosmology and astrophysics, as well as the ability to contribute to the design and development of space-based observatories that can test theories and advance our understanding of the Universe. They will be well-prepared to conduct independent research and take on leadership roles in academia, industry, or government agencies involved in space science and exploration.
-
-The course also places a strong emphasis on the interdisciplinary nature of modern cosmology and astrophysics, with modules covering topics ranging from particle physics and quantum field theory to space engineering and data analysis. Through a combination of rigorous coursework, hands-on training, and independent research projects, this curriculum provides a solid foundation for future leaders and innovators in the field of observational cosmology and space science.

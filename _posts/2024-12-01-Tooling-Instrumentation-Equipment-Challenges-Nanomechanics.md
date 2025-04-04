@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tooling, Instrumentation, Equipment Challenges in Nanomechanics"
-date:   2024-12-01 4:30:00
+date:   2026-12-01 4:30:00
 categories: classics
 ---
 

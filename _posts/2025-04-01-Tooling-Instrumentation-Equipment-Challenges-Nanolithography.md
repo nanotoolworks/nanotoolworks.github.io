@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tooling, Instrumentation, Equipment Challenges in Nanolithography"
-date:   2025-04-01 4:30:00
+date:   2027-04-01 4:30:00
 categories: barriers
 ---
 
