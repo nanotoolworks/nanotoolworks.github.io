@@ -62,13 +62,13 @@ The relentless drive towards smaller feature sizes in nanoelectronics necessitat
 
 ### Table 2.1: Comparison of Key Nanoscale Lithography Techniques
 
-| Technique Resolution Throughput Cost Key Tooling Challenges |
-| :---- :---- :---- :---- :---- |
-| Optical Lithography ~100 nm (with enhancements) High Moderate Diffraction limits, depth of focus |
-| EUV Lithography ~10-20 nm Moderate (currently) Very High Source power, reflective optics, mask fabrication, photoresist development, stochastics |
-| Electron Beam Lithography (EBL) <10 nm Low (serial) High Slow writing speed, high cost, proximity effects |
-| Focused Ion Beam (FIB) Lithography <10 nm Very Low (serial) High Material limitations, sputtering damage |
-| Nanoimprint Lithography (NIL) <10 nm High (potential) Moderate (potential) Defect control, overlay accuracy, template wear, non-planar substrates |
+| Technique | Resolution | Throughput | Cost | Key Tooling Challenges |
+| :---- | :---- | :---- | :---- | :---- |
+| Optical Lithography | \~100 nm (with enhancements) | High | Moderate | Diffraction limits, depth of focus |
+| EUV Lithography | \~10-20 nm | Moderate (currently) | Very High | Source power, reflective optics, mask fabrication, photoresist development, stochastics |
+| Electron Beam Lithography (EBL) | \<10 nm | Low (serial) | High | Slow writing speed, high cost, proximity effects |
+| Focused Ion Beam (FIB) Lithography | \<10 nm | Very Low (serial) | High | Material limitations, sputtering damage |
+| Nanoimprint Lithography (NIL) | \<10 nm | High (potential) | Moderate (potential) | Defect control, overlay accuracy, template wear, non-planar substrates |
 
 ## Challenges in Nanoscale Etching and Material Removal
 
