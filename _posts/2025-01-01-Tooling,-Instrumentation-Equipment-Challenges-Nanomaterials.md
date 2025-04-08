@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Tooling, Instrumentation, Equipment Challenges in Nanomaterials"
+date:   2025-01-01 4:30:00
+categories: barriers
+---
+
 # Tooling, Instrumentation, Equipment Challenges in Nanomaterials
 
 ## Table of Contents
