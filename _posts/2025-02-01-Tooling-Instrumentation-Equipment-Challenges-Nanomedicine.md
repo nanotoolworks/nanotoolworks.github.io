@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tooling, Instrumentation, Equipment Challenges in Nanomedicine"
-date:   2025-04-01 4:30:00
+date:   2025-02-01 4:30:00
 categories: barriers
 ---
 
