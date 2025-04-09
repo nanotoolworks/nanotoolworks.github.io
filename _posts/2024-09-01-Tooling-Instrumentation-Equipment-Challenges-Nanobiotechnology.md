@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tooling, Instrumentation, Equipment Challenges in Nanobiotechnology"
+title:  "Tooling, Instrumentation, Equipment in Nanobiotechnology"
 date:   2024-09-01 4:30:00
 categories: barriers
 ---
