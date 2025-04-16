@@ -6,7 +6,7 @@ categories: engineering
 ---
 # Review Nanosensor Engineering and Low-Level Logic Systems
 
-This introductory review of nanosensor engineering is perhaps not especially exhaustive, but it should give someone entirely new to the topic of nanosensor engineering an overview of how nanosensor engineering is performed. It provides me with a framework for generally making deep explorations into various topics, ie *to study the trees, without forgetting where I am in the forest*.
+This introductory review of nanosensor engineering is perhaps not especially exhaustive and it's really only a backgrounder for someone looking into topics such as [the publiclly available information from looking at patents in nanosensor engineering in the last 10 years](https://docs.google.com/document/d/129J14cIc-Zkb7CI5m5WzrjWgaEPPonq5ta5td8AreQk/edit?usp=sharing), but this broad overview should give someone entirely new to the topic of nanosensor engineering a very general understanding of how nanosensor engineering is performed. In my case for example, this outline, along with the [outline of nanoengineering patents](#appendix-a-nanosensor-patents-in-sensor-engineering-and-logic-systems-2015-2025) provides me with a *lay of the land* framework for context as making deeper explorations into various topics, ie *getting lost in the weeds, while out to study the trees, so that I can remember where I am in the forest*.
 
 ### Table of Contents
 
