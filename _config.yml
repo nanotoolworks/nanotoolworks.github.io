@@ -1,9 +1,0 @@
-# Site settings
-title: Nanotoolworks
-email: nanotoolworks@gmail.com
-description: No Job Too Small
-twitter_username: nanotoolworks
-github_username:  nanotoolworks
-
-# Build settings
-markdown: kramdown
