@@ -84,4 +84,5 @@
     - [Application, Adjustment](nested/sub-chapter_1.10.md)
     - [Future Directions](nested/sub-chapter_1.11.md)
     - [Conclusion](nested/sub-chapter_1.12.md)
+- [How The History of Capital Markets Has Driven The History Of Technology](./A.md)
 
